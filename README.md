@@ -88,5 +88,5 @@ int main() {
 
 ## RESULT:
 The program for the Diffie-Hellman algorithm is executed successfully, and Alice and Bob have securely derived a shared secret key.
-Ex--10---Diffee-Hellman/README.md at main · K-Dharshini/Ex--10---Diffee-Hellman
+
  
