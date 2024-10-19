@@ -82,8 +82,8 @@ int main() {
 ~~~
 
 ## OUTPUT:
+![Screenshot 2024-10-19 101925](https://github.com/user-attachments/assets/58d7f552-e04d-4dad-9f9e-e54de93c2b9e)
 
-![Screenshot 2024-10-17 073007](https://github.com/user-attachments/assets/c8e9bab8-b47e-46ca-a8e0-936580e1bb67)
 
 
 ## RESULT:
